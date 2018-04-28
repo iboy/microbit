@@ -7,6 +7,8 @@ dependencies:
   - matplotlib
   - pandas
   - bokeh
+  - ipywidgets
+  - jupyter_contrib_nbextensions
   - rise
   - pip
   - pip:
